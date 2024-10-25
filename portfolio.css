@@ -158,3 +158,11 @@
     transition: all 0.3s ease;
     color: rgb(173, 173, 173);
 }
+.button-habilidades{
+    text-decoration: none;
+    color: white;
+}
+.button-habilidades:hover{
+    transition: all 0.3s ease;
+    color: rgb(173, 173, 173);
+}
